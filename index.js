@@ -1,1 +1,1 @@
-import"./vlastniFunkce"
+import"./vlastniFunkce2"
