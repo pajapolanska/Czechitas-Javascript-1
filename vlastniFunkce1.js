@@ -4,8 +4,6 @@
 let cislo1 = Number(prompt("zadej první číslo"));
 let cislo2 = Number(prompt("zadej druhé číslo"));
 
-
-
 function pocitadlo (cislo1 , cislo2) {
 console.log(cislo1 + cislo2);
 console.log(cislo1*cislo2);
