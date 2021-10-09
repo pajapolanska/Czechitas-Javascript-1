@@ -10,6 +10,8 @@ function prvocislo(cislo) {
 }
 
 
-console.log(prvocislo(prompt("zadej cislo")));
+console.log(prvocislo(Number(prompt("zadej cislo"))));
+
+
 
 
