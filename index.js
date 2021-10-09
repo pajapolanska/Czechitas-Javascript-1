@@ -1,1 +1,2 @@
-import"./vlastniFunkce2"
+import"./pole"
+
