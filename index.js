@@ -1,2 +1,2 @@
-import"./Pole2"
+import"./pole2"
 
