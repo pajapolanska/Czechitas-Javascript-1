@@ -1,1 +1,1 @@
-import"./ukol2"
+import"./ukolWHILE"
