@@ -3,11 +3,11 @@
 function prvocislo(cislo) {
   for(let i = 2; i < cislo; i+1 ) {
     if(cislo % i === 0) {
-      return false
+      return false;
     }
   }
-  return true
+  return true;
 }
 
-console.log(prvocislo(Number(prompt("zadej cislo"))));
+let vstup = console.log(prompt("zadej cislo"));
 
