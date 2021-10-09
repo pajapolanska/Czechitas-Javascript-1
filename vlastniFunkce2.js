@@ -11,7 +11,3 @@ function prvocislo(cislo) {
 
 
 console.log(prvocislo(Number(prompt("zadej cislo"))));
-
-
-
-
