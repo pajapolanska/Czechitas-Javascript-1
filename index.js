@@ -1,1 +1,1 @@
-import"./ukolWHILE"
+import"./vlastniFunkce"
