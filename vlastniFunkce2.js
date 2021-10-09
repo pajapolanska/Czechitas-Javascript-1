@@ -9,5 +9,7 @@ function prvocislo(cislo) {
   return true;
 }
 
-let vstup = console.log(prompt("zadej cislo"));
+
+console.log(prvocislo(prompt("zadej cislo")));
+
 
